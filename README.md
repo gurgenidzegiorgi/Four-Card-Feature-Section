@@ -13,4 +13,4 @@
 ## Author
 
 - Website(GitHub) - [Giorgi Gurgenidze](https://github.com/gurgenidzegiorgi/Four-Card-Feature-Section)
-- Live URL(GitHub) - [](https://www.twitter.com/yourusername)
+- Live URL(GitHub) - [](gurgenidzegiorgi.github.io/Four-Card-Feature-Section/)
